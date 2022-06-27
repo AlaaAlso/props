@@ -11,7 +11,7 @@ const ProFilee = (props) => {
     <Card className="cardinfo">
       {
         <Card.Img
-          src="./Orange.png"
+          src="./img/Orange.png"
           style={{ width: "300px" }}
           className="imgedit"
           alt="logo"

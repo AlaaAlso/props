@@ -24,7 +24,7 @@ function App() {
           curious and like to improve faster. I always try to find a new
           artistic conception or technique.
         </h2>
-        <img src="./1206854.png" style={{ width: "50px" }} alt="camera" />
+        <img src="./img/1206854.png" style={{ width: "50px" }} alt="camera" />
       </ProFilee>
       {<Footer />}
     </div>
